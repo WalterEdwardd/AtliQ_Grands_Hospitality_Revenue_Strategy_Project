@@ -8,9 +8,9 @@ This file contains all the meta information regarding the columns described in t
 
 Column Description for dim_date:
 1. date: This column represents the dates present in May, June and July.
-2. mmm yy: This column represents the date in the format of mmm yy (monthname year).
+2. mmm yy: This column represents the date in the format of mmm yy (month_name year).
 3. week no: This column represents the unique week number for that particular date.
-4. day_type: This column represents whether the given day is Weekend or Weekeday.
+4. day_type: This column represents whether the given day is Weekend or Weekday.
 
 
 
